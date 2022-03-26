@@ -34,7 +34,7 @@ __Fit Check Apparel (Integrated Business Core)__ Company Leader - Finance
 clothing to the 25,000+ students and faculty at BYU-Idaho
 - Managed a team of 6 that developed and executed processes and analyses surrounding sales, bookkeeping,
 inventory management, variance analysis, and key ratio analysis
-- Created and implemented pre-order capabilities for our customers resulting in an 84% increase in revenue
+- Created and implemented pre-order capabilities for our customers resulting in an 84% increase in revenues
 
 `Jun 2021 - Aug 2021`
 __Walmart__, Merchandising Operations Intern
