@@ -2,7 +2,7 @@
 layout: cv
 title: Bret Claflin's Resume
 ---
-# Bret Claflin's SICK resume!!!
+# Bret Claflin
 
 <div id="webaddress">
 <a href="claflin.bret@gmail.com">claflin.bret@gmail.com</a>
